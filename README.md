@@ -1,1 +1,1 @@
-This is first steps with Rspec.
+First steps with Rspec.
